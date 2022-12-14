@@ -21,5 +21,7 @@ class Person:
 
 
 first_person =Person("Thamer" , 19)
+print(first_person.name)
+print(first_person.age)
 first_person.is_adult()
 print(first_person)
